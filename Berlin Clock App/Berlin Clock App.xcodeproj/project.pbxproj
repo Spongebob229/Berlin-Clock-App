@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A2402422BA0782500199F9C /* TopNavText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402412BA0782500199F9C /* TopNavText.swift */; };
+		0A2402442BA0787B00199F9C /* ClockRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402432BA0787B00199F9C /* ClockRoundedRectangle.swift */; };
+		0A2402462BA078B100199F9C /* InputRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402452BA078B100199F9C /* InputRoundedRectangle.swift */; };
+		0A2402482BA078EC00199F9C /* InputFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402472BA078EC00199F9C /* InputFieldView.swift */; };
+		0A24024A2BA0792B00199F9C /* TopCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402492BA0792B00199F9C /* TopCircle.swift */; };
+		0A24024C2BA0A86700199F9C /* RawType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A24024B2BA0A86700199F9C /* RawType.swift */; };
+		0A24024E2BA0C5A900199F9C /* FourBlocksRaw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A24024D2BA0C5A900199F9C /* FourBlocksRaw.swift */; };
+		0A2402502BA0C5D300199F9C /* ElevenBlocksRaw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A24024F2BA0C5D300199F9C /* ElevenBlocksRaw.swift */; };
+		0A2402582BA3468E00199F9C /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A2402572BA3468E00199F9C /* Block.swift */; };
 		0ABBCB6B2B9DCB88004233C7 /* Berlin_Clock_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABBCB6A2B9DCB88004233C7 /* Berlin_Clock_AppApp.swift */; };
 		0ABBCB6D2B9DCB88004233C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABBCB6C2B9DCB88004233C7 /* ContentView.swift */; };
 		0ABBCB6F2B9DCB8A004233C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ABBCB6E2B9DCB8A004233C7 /* Assets.xcassets */; };
@@ -14,6 +23,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A2402412BA0782500199F9C /* TopNavText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNavText.swift; sourceTree = "<group>"; };
+		0A2402432BA0787B00199F9C /* ClockRoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockRoundedRectangle.swift; sourceTree = "<group>"; };
+		0A2402452BA078B100199F9C /* InputRoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputRoundedRectangle.swift; sourceTree = "<group>"; };
+		0A2402472BA078EC00199F9C /* InputFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputFieldView.swift; sourceTree = "<group>"; };
+		0A2402492BA0792B00199F9C /* TopCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopCircle.swift; sourceTree = "<group>"; };
+		0A24024B2BA0A86700199F9C /* RawType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawType.swift; sourceTree = "<group>"; };
+		0A24024D2BA0C5A900199F9C /* FourBlocksRaw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourBlocksRaw.swift; sourceTree = "<group>"; };
+		0A24024F2BA0C5D300199F9C /* ElevenBlocksRaw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenBlocksRaw.swift; sourceTree = "<group>"; };
+		0A2402572BA3468E00199F9C /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		0ABBCB672B9DCB88004233C7 /* Berlin Clock App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Berlin Clock App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ABBCB6A2B9DCB88004233C7 /* Berlin_Clock_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Berlin_Clock_AppApp.swift; sourceTree = "<group>"; };
 		0ABBCB6C2B9DCB88004233C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +73,15 @@
 				0ABBCB6C2B9DCB88004233C7 /* ContentView.swift */,
 				0ABBCB6E2B9DCB8A004233C7 /* Assets.xcassets */,
 				0ABBCB702B9DCB8A004233C7 /* Preview Content */,
+				0A2402472BA078EC00199F9C /* InputFieldView.swift */,
+				0A2402452BA078B100199F9C /* InputRoundedRectangle.swift */,
+				0A2402432BA0787B00199F9C /* ClockRoundedRectangle.swift */,
+				0A2402412BA0782500199F9C /* TopNavText.swift */,
+				0A2402492BA0792B00199F9C /* TopCircle.swift */,
+				0A24024B2BA0A86700199F9C /* RawType.swift */,
+				0A24024D2BA0C5A900199F9C /* FourBlocksRaw.swift */,
+				0A2402572BA3468E00199F9C /* Block.swift */,
+				0A24024F2BA0C5D300199F9C /* ElevenBlocksRaw.swift */,
 			);
 			path = "Berlin Clock App";
 			sourceTree = "<group>";
@@ -137,8 +164,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A2402442BA0787B00199F9C /* ClockRoundedRectangle.swift in Sources */,
+				0A2402582BA3468E00199F9C /* Block.swift in Sources */,
+				0A2402422BA0782500199F9C /* TopNavText.swift in Sources */,
+				0A2402482BA078EC00199F9C /* InputFieldView.swift in Sources */,
 				0ABBCB6D2B9DCB88004233C7 /* ContentView.swift in Sources */,
+				0A24024C2BA0A86700199F9C /* RawType.swift in Sources */,
+				0A2402462BA078B100199F9C /* InputRoundedRectangle.swift in Sources */,
+				0A24024E2BA0C5A900199F9C /* FourBlocksRaw.swift in Sources */,
+				0A24024A2BA0792B00199F9C /* TopCircle.swift in Sources */,
 				0ABBCB6B2B9DCB88004233C7 /* Berlin_Clock_AppApp.swift in Sources */,
+				0A2402502BA0C5D300199F9C /* ElevenBlocksRaw.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
